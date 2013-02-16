@@ -1,0 +1,4 @@
+MySolution
+==========
+
+Azure Development
